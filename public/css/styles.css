@@ -18,12 +18,13 @@ body {
   line-height: 1.5;
   color: #333;
   background: #f4f4f4;
-}
+}   
 
 /* Navbar */
 .navbar {
   background: #333;
   color: #fff;
+  width: 100%;
   padding: 1rem;
   display: flex;
   justify-content: space-between;
@@ -121,8 +122,8 @@ img {
     position: fixed;
    bottom: 0;
    width: 100%;
-   height: 40px;
-    padding: 8px;
+   height: 45px;
+    padding: 10px;
     border-radius: 5px;
     margin: px;
     color: #fff;
