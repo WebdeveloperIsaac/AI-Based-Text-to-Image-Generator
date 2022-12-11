@@ -11,10 +11,10 @@ to best possibly generate the images we want
 
 Seems Simply Magical if you ask me here is a screenshot
 me and Sir Isaac Newton : ) lol
-![Alt text](ss.png)
+![Alt text](images/ss.png)
 </br>
 </br>
-![Alt text](Screenshot%202022-12-12%20002717.png)
+![Alt text](images/Screenshot%202022-12-12%20002717.png)
 this one i can confirm is Mee : ))
 ### Authors
 
